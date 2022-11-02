@@ -1,5 +1,9 @@
 # Portfolio
 
 Initial implementation of my website.
-Link: https://teustenn.netlify.app
+
+<div>
+ Link: 
+ <a href="https://teustenn.netlify.app" target="_blank">teustenn.netlify.app</a>
+</div>
  
