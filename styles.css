@@ -60,7 +60,7 @@ header li a {
 }
 
 .nav_links a:hover {
-  color: rgb(255, 0, 225);
+  color: rgb(100, 0, 160);
 }
 
 
@@ -86,6 +86,7 @@ main p {
 
 .main {
   padding-block: 6em;
+  transition: all 0.3s ease 0s;
 }
 
 
@@ -123,8 +124,11 @@ footer p {
   width: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(black, rgb(255, 0, 225));
+  background: rgb(18, 18, 18);
   border-radius: 6px;
+}
+::-webkit-scrollbar-track {
+  display: none;
 }
 
 /* Social Media */
@@ -205,16 +209,16 @@ footer p {
 
 .social .twitter:hover span,
 .social .twitter .popup:hover {
-  background: rgb(255, 0, 225);
+  background: rgb(100, 0, 160);
 }
 
 .social .instagram:hover span,
 .social .instagram .popup:hover {
-  background: rgb(255, 0, 225);
+  background: rgb(100, 0, 160);
 }
 
 .social .github:hover span,
 .social .github .popup:hover {
-  background: rgb(255, 0, 225);
+  background: rgb(100, 0, 160);
 }
 
