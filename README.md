@@ -6,4 +6,3 @@ Initial implementation of my website.
  Link: 
  <a href="https://teustenn.netlify.app" target="_blank">teustenn.netlify.app</a>
 </div>
- 

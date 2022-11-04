@@ -9,5 +9,3 @@ function myFunction() {
         header.classList.remove("sticky");
     }
 }
-
-/* Copy Clipboard */
