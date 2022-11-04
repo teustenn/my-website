@@ -5,6 +5,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
 }
@@ -106,7 +110,7 @@ footer p {
 }
 
 .footer-bottom p {
-  background: #000;
+  background: #0d0d0d;
   text-align: center;
   padding-block: 1.5em;
 }
@@ -117,7 +121,7 @@ footer p {
   width: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #000;
+  background: #0d0d0d;
 }
 
 
