@@ -36,6 +36,10 @@ header li {
   margin: 8px 30px;
 }
 
+.section {
+  height: 100vh;
+}
+
 .logo {
   display: block;
   width: 50px;
